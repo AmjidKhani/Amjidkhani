@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amjad Khan</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Ai Chat Bots**
 
