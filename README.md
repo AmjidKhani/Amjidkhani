@@ -1,4 +1,4 @@
-<img src="banner_img.png" alt="GitHub Banner" width="100%" />
+<img src="banner_logo_img.png" alt="GitHub Banner" width="100%" />
 <h3 align="left">GitHub Stats</h3>
 
 ###
@@ -30,7 +30,8 @@
 
 <h3 align="left">Technologies</h3>
 
-###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
