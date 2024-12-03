@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amjad Khan and I'm a Software Engineer from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Amjad Khan. I'm a Software Engineer from Pakistan</h2>
 
 ###
 
