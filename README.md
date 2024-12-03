@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1tHyABDHxySFIShvDvJyF_tBb9btCn6KF/view?usp=drive_link"  />
+  <img height="200" src="https://drive.google.com/uc?id=1tHyABDHxySFIShvDvJyF_tBb9btCn6KF"/>
 </div>
+
 
 ###
 
