@@ -84,7 +84,6 @@
 <h3 align="left">Contributions</h3>
 
 <br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -93,6 +92,8 @@
 
 <br clear="both">
 <br clear="both">
+
+
 <div align="center">
   <img height="201" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e47b1cbwoqchqx8qm1vfx9mjgypn1h15bdsla4kamlg&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="display: inline-block; margin-right: 20px;" />
   
