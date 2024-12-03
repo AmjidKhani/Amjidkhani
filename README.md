@@ -80,7 +80,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
-
+<br clear="both">
 <h3 align="left">Contributions</h3>
 
 <br clear="both">
@@ -91,6 +91,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<br clear="both">
 <br clear="both">
 <div align="center">
   <img height="201" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e47b1cbwoqchqx8qm1vfx9mjgypn1h15bdsla4kamlg&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="display: inline-block; margin-right: 20px;" />
