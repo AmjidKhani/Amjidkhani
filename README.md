@@ -30,7 +30,7 @@
 
 <h3 align="left">Technologies</h3>
 
-
+<br clear="both">
 
 
 <div align="left">
