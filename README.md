@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋! My name is Amjad Khan. I'm a Software Engineer from Pakistan</h2>
+<div align="center">
+  <img height="200" src="https://drive.google.com/file/d/1tHyABDHxySFIShvDvJyF_tBb9btCn6KF/view?usp=drive_link"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amjidkhani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjidkhani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">Technologies</p>
 
 ###
 
@@ -59,6 +58,21 @@
 
 ###
 
+<p align="left">GitHub Stats</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amjidkhani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjidkhani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Social Media</h3>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -74,9 +88,8 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-###
+
+<div align="center">
+  <img height="201" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e47b1cbwoqchqx8qm1vfx9mjgypn1h15bdsla4kamlg&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
+
