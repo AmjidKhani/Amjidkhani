@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="200" src="https://drive.google.com/uc?id=1tHyABDHxySFIShvDvJyF_tBb9btCn6KF"/>
-</div>
-
+<img src="banner_img.png" alt="GitHub Banner" width="100%" />
 
 ###
 
